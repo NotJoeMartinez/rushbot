@@ -3,7 +3,7 @@ Mass sms system using Twilio and GroupMe APIs.
 
 ![img](imgs/flowchart.png)
 
-Have you ever needed to implement mass bidirectional SMS at scale, overnight, 
+Have you ever needed to implement mass, bidirectional, SMS at scale, overnight, 
 with $25 budget? Well this is the result of that situation. Rusbot was 
 originally intended for fraternal recruitment purposes but can easily be 
 adapted to critical communication infrastructure like Public Safety Alerts or 
@@ -53,7 +53,6 @@ like this:
 
 To reply to them simply reply like you normally would in a groupme group chat and it will 
 it will start a message chain. 
-![img](imgs/reply.png)
 
 - [Out dated blog post](https://notjoemartinez.com/blog/automated_sms_with_twilio_and_groupme/)
 - **This is (mostly) a joke don't actually use this for anything important**
