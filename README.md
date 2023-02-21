@@ -3,7 +3,7 @@ A sketchy mass SMS system using Twilio and GroupMe APIs.
 
 ![img](imgs/flowchart.png)
 
-Have you ever needed to implement a mass, bidirectional, SMS at scale, overnight, 
+Have you ever needed to implement a mass-bidirectional-SMS-at-scale system overnight?
 with $25 budget? Well this is the result of that situation. Rusbot was 
 originally intended for fraternal recruitment purposes but can easily be 
 adapted to critical communication infrastructure like Public Safety Alerts or 
