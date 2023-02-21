@@ -42,7 +42,7 @@ of authentication protocol. Someone *could* potentially form a malicious post
 request and send messages on your organizations behalf. 
 
 Also remember to copy the csv you used to send out the mass text to the same 
-directory as the flask application or else Bingo won't know anyone's Nam-O  
+directory as the flask application or else Bingo won't know anyone's Name-O  
 
 ## Responding to responses 
 If someone responds to your mass sms it should pop up in your dedicated group message 
