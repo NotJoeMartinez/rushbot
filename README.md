@@ -7,8 +7,7 @@ Have you ever needed to implement mass, bidirectional, SMS at scale, overnight,
 with $25 budget? Well this is the result of that situation. Rusbot was 
 originally intended for fraternal recruitment purposes but can easily be 
 adapted to critical communication infrastructure like Public Safety Alerts or 
-Medical emergency hotlines. Your imagination and risk tolerance are the 
-truly the only limit!
+Medical emergency hotlines. Your imagination and risk tolerance are truly the only limit!
 
 Rushbot works in two parts a cli for sending the initial mass text 
 and a webserver for handling conversations. 
