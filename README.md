@@ -1,5 +1,5 @@
 # Rushbot
-A sketchy mass SMS system using Twilio and GroupMe APIs. 
+A sketchy mass SMS system using the Twilio and GroupMe APIs. 
 
 ![img](imgs/flowchart.png)
 
